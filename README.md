@@ -3,3 +3,4 @@
 
 ### n-body_sim.ipynb
 ![](n-body_sim.gif)
+slingshot!
