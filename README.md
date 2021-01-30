@@ -2,6 +2,5 @@
 ![](markov_chain.jpg)
 
 ### n-body_sim.ipynb
-![](n-body_sim.gif)
-
 slingshot!
+![](n-body_sim.gif)
