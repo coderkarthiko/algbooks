@@ -1,6 +1,7 @@
 ## markov_chain.ipynb
-Basic Markov chain implementation
+simple Markov chain implementation
+![](markov_chain.jpg)
 
 ## n-body_sim.ipynb
-N-body simulation (with an attractor)
+n-body simulation
 ![](n-body_sim.gif)
