@@ -6,6 +6,6 @@ basic implementation!
 
 ### n-body_sim.ipynb
 
-slingshot!
+colourful boys...
 
 ![](n-body_sim.gif)
