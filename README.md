@@ -1,9 +1,10 @@
 ### markov_chain.ipynb
 
-basic implementation!
+basic implementation...
 
 ![](markov_chain.jpg)
 
 ### n-body_sim.ipynb
 
-colourful boys...
+slingshot!
+![](n-body_sim.gif)
