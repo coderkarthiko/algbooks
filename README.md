@@ -7,4 +7,5 @@ basic implementation...
 ### n-body_sim.ipynb
 
 slingshot!
+
 ![](n-body_sim.gif)
