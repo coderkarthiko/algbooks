@@ -10,8 +10,8 @@ Simulating Martian EDL. What will happen when a spacecraft enters, descends and 
 
 ![](reentry_sim.jpg)
 
-### lunarss_sim.ipnb
+### lunarss_analysis.ipnb
 
 How much payload can Starship shuttle b/w the Earth and the Moon? The relationship b/w LEO->Moon payload and Moon->LEO payload is linear and I've shown why.
 
-![](lunarss_sim.jpg)
+![](lunarss_analysis.jpg)
